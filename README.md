@@ -1,2 +1,2 @@
 # FirstWebPage
-Experimenting web hosting on github via manual upload
+:smile: Experimenting web hosting on github via manual upload :smile:
